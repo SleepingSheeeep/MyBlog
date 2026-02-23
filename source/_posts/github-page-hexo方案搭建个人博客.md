@@ -10,13 +10,13 @@ date: 2026-02-21 22:25:29
 # 第一步：创建GithubPage仓库
 首先你需要有一个github账号，然后创建一个新的仓库，这里要注意仓库的名字必须是**你的github用户名.github.io**，并勾选**Add README**。
 
-![创建GithubPage仓库](/source/image/Snipaste_2026-02-21_23-40-18.png)
+![创建GithubPage仓库](/image/Snipaste_2026-02-21_23-40-18.png)
 
 之后点击*create repository*按钮完成GithubPage仓库的创建。
 
 进入仓库主页，点击*settings*，点击侧边栏的*pages*就可以看到你刚创建的博客域名了。
 
-![pages页面](/source/image/Snipaste_2026-02-21_23-56-22.png)
+![pages页面](/image/Snipaste_2026-02-21_23-56-22.png)
 <br>
 
 # 第二步：部署Hexo
@@ -55,7 +55,7 @@ hexo deploy
 # 第三步：设置主题
 Hexo提供了很多主题，让你的博客变得更个性化，更好看。你可以在[官方网站](https://hexo.io/themes/)上预览并选择一个你喜欢的主题。
 
-![主题预览](/source/image/Snipaste_2026-02-23_22-23-58.png)
+![主题预览](/image/Snipaste_2026-02-23_22-23-58.png)
 
 第一个框是主题的名字，点击可以进入该主题的github仓库，查看该主题的详细信息；
 第二个框是该主题的预览网页，可以查看实际效果。
